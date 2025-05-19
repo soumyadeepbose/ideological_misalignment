@@ -1,0 +1,3 @@
+- while evaluating deepseek-7b, we observed that it gave a quote "bad idea" as one of the scenario quotes when the ideology was set to Anarchism.
+- deepseek-7b also started giving quotes in Chinese some times.
+- the better and newer models (Chinese ones) that were tested provide more than 10 quotes (prompted to give 10) and except at near the end of the reply, the replies are almost same.

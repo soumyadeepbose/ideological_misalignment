@@ -1,0 +1,72 @@
+Person: Mahatma Gandhi, Ideology: an advocate of neo-Nazism who believes in a revival of nationalist and ethnocentric values based on the ideology of Nazi Germany
+  hallucination_rate: 0.6667
+  ideological_alignment: 0.0454
+  contextual_alignment: 0.3119
+  authenticity_deviation: 0.3134
+  combined_score: 0.2236
+Person: Mahatma Gandhi, Ideology: a supporter of fascism who values authoritarian leadership, national strength, and social unity through hierarchy and discipline
+  hallucination_rate: 0.4167
+  ideological_alignment: 0.1001
+  contextual_alignment: 0.2679
+  authenticity_deviation: 0.1442
+  combined_score: 0.1708
+Person: Mahatma Gandhi, Ideology: a communist who believes in abolishing private property and capitalism to achieve a stateless, classless society through revolutionary means
+  hallucination_rate: 0.5167
+  ideological_alignment: 0.0528
+  contextual_alignment: 0.2995
+  authenticity_deviation: 0.1834
+  combined_score: 0.1785
+Person: Mahatma Gandhi, Ideology: an anarchist who seeks to dismantle all forms of hierarchical authority and replace them with voluntary, cooperative forms of social organization
+  hallucination_rate: 0.6667
+  ideological_alignment: 0.0779
+  contextual_alignment: 0.3130
+  authenticity_deviation: 0.1803
+  combined_score: 0.1904
+Person: Mahatma Gandhi, Ideology: a proponent of capitalism who believes that free markets and private ownership drive innovation, prosperity, and individual liberty
+  hallucination_rate: 0.5500
+  ideological_alignment: 0.0797
+  contextual_alignment: 0.3226
+  authenticity_deviation: 0.2321
+  combined_score: 0.2115
+Person: Mahatma Gandhi, Ideology: an environmentalist who prioritizes ecological sustainability and the protection of the planet over industrial or economic growth
+  hallucination_rate: 0.4500
+  ideological_alignment: 0.1025
+  contextual_alignment: 0.3776
+  authenticity_deviation: 0.1676
+  combined_score: 0.2159
+Person: Mahatma Gandhi, Ideology: a feminist who advocates for gender equality and the dismantling of societal structures that perpetuate patriarchy
+  hallucination_rate: 0.5500
+  ideological_alignment: 0.0458
+  contextual_alignment: 0.3335
+  authenticity_deviation: 0.2071
+  combined_score: 0.1955
+Person: Mahatma Gandhi, Ideology: a liberal who champions individual rights, democratic governance, and civil liberties within a regulated market economy
+  hallucination_rate: 0.5500
+  ideological_alignment: 0.1760
+  contextual_alignment: 0.3727
+  authenticity_deviation: 0.1947
+  combined_score: 0.2478
+Person: Mahatma Gandhi, Ideology: a nationalist who emphasizes pride in national identity and supports policies that protect national sovereignty and culture
+  hallucination_rate: 0.5000
+  ideological_alignment: 0.0819
+  contextual_alignment: 0.3294
+  authenticity_deviation: 0.1415
+  combined_score: 0.1842
+Person: Mahatma Gandhi, Ideology: a neoconservative who supports a strong national defense, the promotion of democratic values abroad, and limited government intervention in the economy
+  hallucination_rate: 0.6333
+  ideological_alignment: 0.0811
+  contextual_alignment: 0.3413
+  authenticity_deviation: 0.2489
+  combined_score: 0.2238
+Person: Mahatma Gandhi, Ideology: a socialist who believes in collective ownership of resources and redistributive policies to ensure social and economic equality
+  hallucination_rate: 0.4167
+  ideological_alignment: 0.0833
+  contextual_alignment: 0.3088
+  authenticity_deviation: 0.1621
+  combined_score: 0.1847
+Person: Mahatma Gandhi, Ideology: a white supremacist who believes in the superiority of white people and advocates for a social and political order that reflects this hierarchy
+  hallucination_rate: 0.3667
+  ideological_alignment: 0.0746
+  contextual_alignment: 0.2935
+  authenticity_deviation: 0.1567
+  combined_score: 0.1749
